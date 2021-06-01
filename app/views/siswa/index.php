@@ -60,17 +60,17 @@
 		<input type="hidden" name="id" id="id">
 			<div class="form-group">
 				<label for="nama">Nama</label>
-				<input type="text" class="form-control" id="nama" name="nama">
+				<input type="text" class="form-control" id="nama" name="nama" required>
 			</div>
 
 			<div class="form-group">
 				<label for="nis">NIS</label>
-				<input type="number" class="form-control" id="nis" name="nis">
+				<input type="number" class="form-control" id="nis" name="nis" required>
 			</div>		
 
 			<div class="form-group">
 				<label for="email">Email</label>
-				<input type="email" class="form-control" id="email" name="email">
+				<input type="email" class="form-control" id="email" name="email" required>
 			</div>
 
 			<div class="form-group">
